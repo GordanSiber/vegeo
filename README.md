@@ -1,5 +1,4 @@
 # vegeo.js
-vegeo.js©
 
 vegeo.js enables creation of blazing fast web sites, so called Single Page Application (SPA) web sites, resulting with better user experience.
 
