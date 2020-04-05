@@ -2,7 +2,7 @@
 
 vegeo.js enables creation of blazing fast web sites, so called Single Page Application (SPA) web sites, resulting with better user experience.
 
-vegeo.js operates without any framewrok dependencies.
+<strong>vegeo.js</strong> operates without any framework dependencies.
 
 vegeo.js comes in two versions using:
 - pure JavaScript with Ajax as well as History API
