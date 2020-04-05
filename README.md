@@ -1,6 +1,6 @@
 # vegeo.js
 
-vegeo.js enables creation of blazing fast web sites, so called Single Page Application (SPA) web sites, resulting with better user experience.
+vegeo.js enables creation of noticeably faster web sites, so called Single Page Application (SPA) web sites, resulting also with much better user experience.
 
 <strong>vegeo.js</strong> operates without any framework dependencies.
 
@@ -11,7 +11,7 @@ or
 
 By the combination of above mentioned programming techniques, <strong>vegeo.js</strong> enables creation of web sites with following advantages:
 -	Once the initial page is loaded, any following web page is handled without full page reload, resulting with much faster load time than “normal” web sites. Depending on a web site design, increase of the web page loading speed can be well over 30%;
--	when browser caching occurs, that’s to say load of a page content is cached in memory, content is retrieved without any additional request and load speed is instant, i.e. measuring only several milliseconds; 
+-	when browser caching occurs, that’s to say load of a page content is cached by browser, content is retrieved without any additional request and load speed is instant, i.e. measuring only several milliseconds; 
 -	all these resulting with a far better user experience ;
 -	less requests to the server.
 
