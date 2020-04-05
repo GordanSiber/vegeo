@@ -21,7 +21,6 @@ By the combination of above mentioned programming techniques, <strong>vegeo.js</
 So, what makes vegeo.js so special, or what are the differences between vegeo.js and other SPA engines or frameworks:
 
 List of drawbacks and/or faults that are related to some popular SPA engines, platforms or frameworks, which are solved by vegeo:</br>
-
 <strong>a)</strong> No longer initial loading time – SPA web site has the same initial load time as any other standard web site;</br>
 <strong>b)</strong>	No single sharing link – each page of the website has its own URL link, as any other standard web site;</br>
 <strong>c)</strong>	URLs changes normally when triggering a link in navigation menu, or any other link in the page content,  i.e. URLs are updated without refresh of the page;</br>
@@ -37,4 +36,7 @@ Some other solutions incorporated in vegeo.js:
 -	No cross-browser inconsistencies when using History API.
 -	vegeo.js is compatible with all modern web browsers and devices.  
 
-Website jazzbina.ba is a practical example of SPA, where vegeo executes the web site within PHP architecture.
+Website https://jazzbina.ba is a practical example of SPA, where vegeo executes the web site within PHP architecture.</br>
+Notice:</br>
+https://jazzbina.ba  site uses jQuery version of vegeo.js</br> 
+https://jazzbina.ba/en/home/ site uses pure JavaScript version of vegeo.js.
