@@ -15,9 +15,6 @@ By the combination of above mentioned programming techniques, <strong>vegeo.js</
 -	all these resulting with a far better user experience ;
 -	less requests to the server.
 
-<strong>Notice:</strong></br>
-<strong>vegeo.js is not</strong> a so called single page – single page technique where the entire web site is loaded on the initial page load (resulting with a much longer loading time), and where web pages are loaded as a horizontal or vertical slides using internal anchors. 
-
 So, what makes vegeo.js so special, or what are the differences between vegeo.js and other SPA engines or frameworks:
 
 List of drawbacks and/or faults that are related to some popular SPA engines, platforms or frameworks, which are solved by vegeo:</br>
