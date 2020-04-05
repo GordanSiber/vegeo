@@ -16,4 +16,4 @@ By the combination of above mentioned programming techniques, <strong>vegeo.js</
 -	less requests to the server.
 
 Notice:
-<strong>vegeo.js</strong> is not a so called single page – single page technique where the entire web site is loaded on the initial page load (resulting with a much longer loading time), and where web pages are loaded as a horizontal or vertical slides using internal anchors. 
+vegeo.js is not a so called single page – single page technique where the entire web site is loaded on the initial page load (resulting with a much longer loading time), and where web pages are loaded as a horizontal or vertical slides using internal anchors. 
