@@ -1,5 +1,5 @@
 # vegeo.js
-
+![](images/vegeo.png)
 
 <strong>vegeo.js</strong> enables creation of noticeably faster web sites, so called Single Page Application (SPA) web sites, resulting also with much better user experience.
 
