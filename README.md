@@ -1,4 +1,4 @@
-# vegeo.js
+![](images/vegeo.png)
 
 ![](images/vegeo.png)
 
