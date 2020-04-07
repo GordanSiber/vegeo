@@ -6,7 +6,7 @@ In the folder AGPLverison, you may find file vegeoSm.js, which is reduced but fr
 Please read AboutVegeoSm.pdf, as well as files in this and other folders.</br>  
 ___________________________________________________________</br></br>
 
-<strong>vegeo.js</strong> enables creation of noticeably faster web sites, so called Single Page Application (SPA) web sites, resulting also with much better user experience.
+<strong>vegeo.js</strong> enables creation of noticeably faster web sites (see tests), so called Single Page Application (SPA) web sites, resulting also with much better user experience.
 
 <strong>vegeo.js</strong> is a lightweight easy-to-use (see Instructions) programming solution based on JavaScript, unlike some popular code heavy platforms or frameworks. 
 
