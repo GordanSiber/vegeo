@@ -1,5 +1,4 @@
-<img src="images/vegeo.png">
-Copyright © 2019 by Gordan Šiber
+<img src="images/vegeo.png"> Copyright © 2019 by Gordan Šiber
 // All rights reserved </br>
 
 <strong>vegeo.js</strong> enables creation of noticeably faster web sites, so called Single Page Application (SPA) web sites, resulting also with much better user experience.
