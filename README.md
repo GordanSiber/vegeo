@@ -25,14 +25,14 @@ By the combination of above mentioned programming techniques, <strong>vegeo.js</
 So, what makes vegeo.js so special, or what are the differences between vegeo.js and other SPA engines or frameworks:
 
 List of drawbacks and/or faults that are related to some popular SPA engines, platforms or frameworks, which are solved by vegeo:</br>
-<strong>a)</strong> No longer initial loading time – SPA web site has the same initial load time as any other standard web site;</br>
-<strong>b)</strong>	No single sharing link – each page of the website has its own URL link, as any other standard web site;</br>
-<strong>c)</strong>	URLs changes normally when triggering a link in navigation menu, or any other link in the page content,  i.e. URLs are updated without refresh of the page;</br>
-<strong>d)</strong>	Selection of navigation buttons follows the change of URL and of page content when selecting a link in navigation menu;</br>
-<strong>e)</strong>	Back and forward browser buttons work - URLs change when triggering back or forward buttons, also selection of navigation buttons follows the change of URL and of page content when selecting (clicking) back or forward buttons. URLs are updated without refresh of the page;</br>
-<strong>f)</strong> Sub-links or other internal links to other pages or to content in other pages execute in the same way, i.e. have the same functionality as listed in previous topics;</br>
-<strong>g)</strong>	Any initially loaded page of the web site loads the same way after hitting the back button on a following web page, i.e. has the same functionality as listed in previous topics. Initial URL is updated without refresh of the page;</br>
-<strong>h)</strong>	Full crawlability – each URL and its content can be shared, bookmarked, and fully crawled by search engines.
+- No longer initial loading time – SPA web site has the same initial load time as any other standard web site;</br>
+-	No single sharing link – each page of the website has its own URL link, as any other standard web site;</br>
+-	URLs changes normally when triggering a link in navigation menu, or any other link in the page content,  i.e. URLs are updated without refresh of the page;</br>
+-	Selection of navigation buttons follows the change of URL and of page content when selecting a link in navigation menu;</br>
+-	Back and forward browser buttons work - URLs change when triggering back or forward buttons, also selection of navigation buttons follows the change of URL and of page content when selecting (clicking) back or forward buttons. URLs are updated without refresh of the page;</br>
+- Sub-links or other internal links to other pages or to content in other pages execute in the same way, i.e. have the same functionality as listed in previous topics;</br>
+-	Any initially loaded page of the web site loads the same way after hitting the back button on a following web page, i.e. has the same functionality as listed in previous topics. Initial URL is updated without refresh of the page;</br>
+-	Full crawlability – each URL and its content can be shared, bookmarked, and fully crawled by search engines.
 
 Some other solutions incorporated in vegeo.js:
 -	Preventing page flickering or shivering at load;
