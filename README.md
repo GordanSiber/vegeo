@@ -32,7 +32,7 @@ List of drawbacks and/or faults that are related to some popular SPA engines, pl
 -	Back and forward browser buttons work - URLs change when triggering back or forward buttons, also selection of navigation buttons follows the change of URL and of page content when selecting (clicking) back or forward buttons. URLs are updated without refresh of the page;</br>
 - Sub-links or other internal links to other pages or to content in other pages execute in the same way, i.e. have the same functionality as listed in previous topics;</br>
 -	Any initially loaded page of the web site loads the same way after hitting the back button on a following web page, i.e. has the same functionality as listed in previous topics. Initial URL is updated without refresh of the page;</br>
--	Full crawlability – each URL and its content can be shared, bookmarked, and fully crawled by search engines.
+- Full crawlability – each URL and its content can be shared, bookmarked, and fully crawled by search engines.
 
 Some other solutions incorporated in vegeo.js:
 -	Preventing page flickering or shivering at load;
