@@ -1,5 +1,6 @@
 <img src="images/vegeo.png"> 
 Copyright © 2019 by Gordan Šiber - All rights reserved</br>
+mail to: gordansibi@gmail.com</br>
 ___________________________________________________________</br>
 In the folder AGPLverison, you may find file vegeoSm.js, which is reduced but free to try version of vegeo.js.</br>
 Please read AboutVegeoSm.pdf, as well as files in this and other folders.</br>  
