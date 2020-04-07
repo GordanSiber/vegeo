@@ -1,8 +1,9 @@
 <img src="images/vegeo.png"> 
 Copyright © 2019 by Gordan Šiber - All rights reserved</br>
 ___________________________________________________________</br>
-In the folder AGPLverison, you may find file vegeoSm.js, which is reducted version of vegeo.js. Please read AboutVegeoSm.pdf, as well as files in this andother folders.  
+In the folder AGPLverison, you may find file vegeoSm.js, which is reducted version of vegeo.js. Please read AboutVegeoSm.pdf, as well as files in this andother folders.</br>  
 ___________________________________________________________</br>
+
 
 <strong>vegeo.js</strong> enables creation of noticeably faster web sites, so called Single Page Application (SPA) web sites, resulting also with much better user experience.
 
