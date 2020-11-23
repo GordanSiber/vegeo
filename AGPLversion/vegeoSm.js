@@ -28,34 +28,44 @@
  GNU AFFERO GENERAL PUBLIC LICENSE, Version 3.0, and the “Software” is the vegeoSm.js software
  provided with this notice.
 */
-
 window.onload = function() {
- const content = document.getElementById('content');
- load = function(href){
-  const request = new XMLHttpRequest();
-  const url = '../content' + href.split().pop();
-  request.open('GET',url, true);
-  request.onload = function() {
-    if (this.status >= 200 && this.status < 400) {
-      let data = this.response;
-      content.innerHTML=data;
-   };
+  class vegHTTP {
+    async get(url){
+      const resp = await fetch(url);
+      const resData = await resp.text();
+      return resData;
+    };
   };
-  request.onerror = function(){};
-  request.send();
- };
- function vegLi(e) {
+  const http = new vegHTTP;
+  const content = document.getElementById('content');
+  vegLoad = function(href){
+   const url = '../content' + href.split().pop();
+   http.get(url)
+    .then(data => {
+      content.innerHTML = data;
+    })
+    .catch(err => console.log(err));
+  };
+
+  function vegLi(e) {
     e.preventDefault();
+
     let active = document.querySelector('.current');
     active.classList.remove('current');
     this.classList.add('current');
-    url = this.getAttribute("href");
-    load(url);
-    document.body.scrollTop = 0;
-    document.documentElement.scrollTop = 0;
+
+    vegLU = this.getAttribute("href");
+    vegLT = this.innerText;
+   
+    history.pushState({
+      url: vegLU,
+      title: vegLT
+    }, vegLT, vegLU);
+    document.title = vegLT;
+    vegLoad(vegLU);
  };
- const vegLiList = document.querySelectorAll('a[id^="veg"]');
- for (let i = 0; i < vegLiList.length; i++){
- vegLiList[i].addEventListener('click', vegLi, false);
+  const vegLiList = document.querySelectorAll('a[id^="veg"]');
+  for (let i = 0; i < vegLiList.length; i++){
+  vegLiList[i].addEventListener('click', vegLi, false);
  };
 };
