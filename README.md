@@ -36,4 +36,4 @@ Some other solutions incorporated in vegeo.js:
 -	No cross-browser inconsistencies when using History API.
 -	vegeo.js is compatible with all modern web browsers and devices.  
 
-Website https://jazzbina.ba is a practical example of SPA, where vegeo executes the web site within PHP architecture.</br>
+Website https://technotrade.ba is a practical example of SPA, where vegeo executes the web site within PHP architecture.</br>
