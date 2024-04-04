@@ -1,6 +1,6 @@
 /*
  Copyright © 2020 by Gordan Šiber
- mail to: gordansibi@gmail.com
+ mail to: info@vegeojs.com
 
  Licensed under the GNU AFFERO GENERAL PUBLIC LICENSE, Version 3.0 (the "License") modified with Commons Clause
  Restriction; you may not use this file except in compliance with the License. You may obtain a
