@@ -1,4 +1,4 @@
-<img src="images/vegeo-blue.jpg"> 
+<img src="images/vegeo-blue.jpg" sizes="(min-width:30rem)250px"> 
 Copyright © 2019 by Gordan Šiber - All rights reserved</br>
 mail to: info@vegeojs.com</br>
 https://vegeojs.com/</br></br>
@@ -18,4 +18,4 @@ Main features of <strong>vegeo.js</strong>:</br>
 <li>	ability to be installed and used as a mobile application.</li>
 <li>Fewer requests to the server or to the computer memory cache.</li>
 <li><strong>Vegeo as a green solution</strong>  - Increased website speed and fewer requests result in less energy consumption on the side of the server or any computer device (mobile, tablet, laptop, desktop).</li>
-</u
+</ul>
