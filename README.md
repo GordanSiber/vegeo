@@ -1,4 +1,4 @@
-<img src="images/vegeo-blue.jpg" sizes="(min-width:30rem)250px"> 
+<img src="images/vegeo-blue.jpg" style="width: calc(33%-1rem)"> 
 Copyright © 2019 by Gordan Šiber - All rights reserved</br>
 mail to: info@vegeojs.com</br>
 https://vegeojs.com/</br></br>
