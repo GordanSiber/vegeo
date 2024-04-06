@@ -2,11 +2,9 @@
 Copyright © 2019 by Gordan Šiber - All rights reserved</br>
 mail to: info@vegeojs.com</br>
 https://vegeojs.com/<br>
-___________________________________________________________</br>
 
 In the folder AGPLverison, you may find the website demo of vegeo, which is powered by simplified version of vegeo engine (vegeoSm-1.2.js) .</br>
-You may also copy zip version for ready use on your computer.
-___________________________________________________________</br></br>
+You may also copy zip version for ready use on your computer.</br>
 
 <strong>Vegeo</strong> is a pure JavaScript engine that enables the creation of <strong>Progressive Web Application (PWA)</strong>, type of application which can be used as a web page as well as mobile app on any given device. This is a website design approach where each web page is generated through programming ability to dynamically retrieve selected data from the server (or once cached, from the memory cache).
 
