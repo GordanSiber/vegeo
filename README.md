@@ -1,4 +1,4 @@
-<img src="/AGPLverison/images/vegeo-blue.jpg"> 
+<img src="AGPLverison/images/vegeo-blue.jpg"> 
 Copyright © 2019 by Gordan Šiber - All rights reserved</br>
 mail to: info@vegeojs.com</br>
 https://vegeojs.com/</br></br>
