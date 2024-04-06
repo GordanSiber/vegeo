@@ -1,5 +1,5 @@
 <img src="images/vegeo-blue.jpg" style="width:200px"> 
-Copyright © 2019 by Gordan Šiber - All rights reserved</br>
+Copyright © 2024 by Gordan Šiber - All rights reserved</br>
 mail to: info@vegeojs.com</br>
 https://vegeojs.com/</br></br>
 
