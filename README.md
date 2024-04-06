@@ -8,7 +8,7 @@ You may also copy zip version for ready use on your computer.</br>
 
 <strong>Vegeo</strong> is a pure JavaScript engine that enables the creation of <strong>Progressive Web Application (PWA)</strong>, type of application which can be used as a web page as well as mobile app on any given device. This is a website design approach where each web page is generated through programming ability to dynamically retrieve selected data from the server (or once cached, from the memory cache).
 
-For full demonstration of vegeo, please visit <a href="https://vegeojs.com/" title="vegeo home page"><strong>vegeo website</strong></a>
+For full demonstration of vegeo, please visit <a href="https://vegeojs.com/" title="vegeo home page"><strong>vegeo website.</strong></a>
 </br>
 
 Main features of <strong>vegeo.js</strong>:</br>
